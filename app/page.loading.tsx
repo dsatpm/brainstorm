@@ -1,0 +1,7 @@
+export default function Loading() {
+  return (
+    <div className="p-8 text-center text-gray-500 animate-pulse">
+      <h2 className="text-xl font-semibold">Loading home page...</h2>
+    </div>
+  );
+}

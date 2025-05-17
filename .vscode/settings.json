@@ -1,0 +1,25 @@
+{
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "Be extremely detailed with the file changes and the reason for the change. Use lots of emojis."
+    }
+  ],
+
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": "./docs/nextjs-styles.md"
+    },
+    {
+      "file": "./docs/typescript-styles.md"
+    },
+    {
+      "file": "./docs/nextauth-styles.md"
+    },
+    {
+      "file": "./docs/api-styles.md"
+    },
+    {
+      "file": "./docs/database-styles.md"
+    }
+  ]
+}
